@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/Raandino/conventional-commits/compare/v1.3.0...v1.3.1) (2022-02-17)
+
+
+### Bug Fixes
+
+* **reviews:** this ia atest ([dad8302](https://github.com/Raandino/conventional-commits/commit/dad8302f9ac05ccfb13667fb23002a74334d4072))
+* **slider:** this is a test ([7a4ea01](https://github.com/Raandino/conventional-commits/commit/7a4ea01bd070b624d4bd1cab4bcb9dbc957b9c20))
+
 ## [1.3.0](https://github.com/Raandino/conventional-commits/compare/v1.2.0...v1.3.0) (2022-02-17)
 
 
