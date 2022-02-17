@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/Raandino/conventional-commits/compare/v1.4.0...v1.5.0) (2022-02-17)
+
+
+### Features
+
+* **book:** this is a test ([d03526f](https://github.com/Raandino/conventional-commits/commit/d03526fb18c16b0756920127a5339f68a973c9a1))
+
 ## [1.4.0](https://github.com/Raandino/conventional-commits/compare/v1.3.1...v1.4.0) (2022-02-17)
 
 
